@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Demo Webshop Cross-Browser Matrix" verbose="1" parallel="none">
+    <listeners>
+        <listener class-name="com.demowebshop.reporting.TestListener" />
+    </listeners>
+    
+    <test name="Google Chrome E2E Pipeline">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="com.demowebshop.tests.E2EPurchaseFlowTest" />
+        </classes>
+    </test>
+</suite>

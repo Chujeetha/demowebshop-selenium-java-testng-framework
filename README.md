@@ -1,4 +1,4 @@
-# Demo Webshop - QA Automation Assessment (SDET 5+ YoE)
+# demowebshop-selenium-java-testng-framework
 
 An enterprise-grade, End-to-End Test Automation execution framework built with Java, Selenium WebDriver, TestNG, and ExtentReports. Employs advanced implementation paradigms like explicit PageFactory, thread-safe asynchronous Driver binding, and declarative assertions.
 

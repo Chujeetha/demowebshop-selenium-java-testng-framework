@@ -18,7 +18,7 @@ Below is the chronological sequence of high-fidelity prompts used to engineer, d
 *   **Sequential Execution Control**: "First run Edge browser then run Chrome... Run Edge also when mvn clean test is done, First Chrome browser runs then Edge browser."
 *   **Telemetry Personalization**: "I need my ExtentReport to look like executeEndToEndPurchase-laptop so I can differentiate between tests."
 *   **Locator Paradigm Shift**: "Why did the whole framework only use css locators, choose the best one for every locator and use. This is my project to showcase the interviewer use the best [ID > ClassName > CSS > XPath optimization]."
-*   **Release & Cleanup**: "Remove any mention of SDET 5+ yoe from README's... Push this project only necessary files which the interviewer can clone and review."
+*   **Release & Cleanup**: "Push this project with only necessary files that can be cloned and reviewed."
 *   **Self-Documentation**: "Add .github/Instructions.md so other AI tools can leverage the patterns used, and Update GenAI_Usage.md with all prompts used."
 
 The system autonomously compiled `pom.xml` matrices, forged structural POJOs for the DOM, enforced robust assertions, designed the artifact folder topology, and self-documented optimal integration paradigms for future recursive AI generation operations.

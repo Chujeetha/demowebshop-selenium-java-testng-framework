@@ -11,6 +11,7 @@ An enterprise-grade, End-to-End Test Automation execution framework built with J
 * **ExtentReports 5** (Telemetry generation & HTML Reports)
 * **SLF4J + Logback** (Structured asynchronous logging)
 * **JSON/Jackson** (Describing Data-Driven Payloads)
+* **Gen AI Tools & IDE** (Antigravity with Gemini 3.1 pro)
 
 ## What is Working / Implemented Features
 * **E2E Purchase Flow Automation**: Completely automated workflows replicating user registration, login, product discovery, add to cart, and checkout processes on the Demo Webshop.
